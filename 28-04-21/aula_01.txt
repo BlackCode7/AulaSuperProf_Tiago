@@ -1,0 +1,24 @@
+
+Agregar dados de vendas de plataformas de afiliados
+
+Desenvolvimento Desktop | Intermediário | Publicado: 1 dia atrás | Tempo restante: 13 dias e 13 horas | Propostas: 2 | Interessados: 5
+Estou a procura de desenvolvedores capazes de fazerem a "consolidação" dos dados das APIs de vendas das empresas:
+
+- Braip
+- Eduzz
+- Hotmart
+- Monetizze
+- PerfectPay
+
+A minha intenção é o que o desenvolvedor:
+
+1. Avalie a documentação das APIs destas plataformas
+2. Encontre os pontos comuns entre as APIs
+3. Crie código para ler as informações de vendas das plataformas e as organize em um banco de dados. Ou seja, o banco de dados precisa conter os dados de vendas que sejam comum entre as plataformas e reportam os dados que constam em uma plataforma mas não constem em outra(s).
+3.1 Verificar também na documentação das plataformas os dados da API que são enviados tanto para produtores quanto para afiliados e aquelas que são enviadas apenas para produtores. Esconder
+
+Aplicações Desktop 
+Banco De Dados 
+Desenvolvimento de API 
+Desenvolvimento Desktop 
+Documentação de API 
